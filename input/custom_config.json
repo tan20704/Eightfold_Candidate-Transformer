@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "id": "candidate_id",
+    "name": "full_name",
+    "contact_emails": "emails",
+    "mobile_numbers": "phones",
+    "headline": "headline",
+    "skills_list": {
+      "from": "skills",
+      "format": "names_only"
+    },
+    "history": "experience"
+  },
+  "include_provenance": true,
+  "include_confidence": true,
+  "missing_value_strategy": "null"
+}
