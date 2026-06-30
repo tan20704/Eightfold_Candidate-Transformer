@@ -1,0 +1,276 @@
+{
+    "candidate_id": "23BCS10495",
+    "full_name": "Tanya Verma",
+    "emails": [
+        "tanya20704@gmail.com"
+    ],
+    "phones": [
+        "+919334621693"
+    ],
+    "location": {
+        "city": "Chandigarh",
+        "region": null,
+        "country": "IN"
+    },
+    "links": {
+        "linkedin": "https://linkedin.com/in/tanyaverma200704",
+        "github": "https://github.com/tanyaverma200704",
+        "portfolio": null,
+        "other": null
+    },
+    "headline": "C++ Programming Intern",
+    "years_experience": 0.2,
+    "skills": [
+        {
+            "name": "Python",
+            "confidence": 1.0,
+            "sources": [
+                "input/resume.pdf",
+                "input/recruiter.csv"
+            ]
+        },
+        {
+            "name": "C",
+            "confidence": 1.0,
+            "sources": [
+                "input/resume.pdf",
+                "input/recruiter.csv"
+            ]
+        },
+        {
+            "name": "C++",
+            "confidence": 1.0,
+            "sources": [
+                "input/resume.pdf",
+                "input/recruiter.csv"
+            ]
+        },
+        {
+            "name": "Java",
+            "confidence": 1.0,
+            "sources": [
+                "input/resume.pdf",
+                "input/recruiter.csv"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "confidence": 1.0,
+            "sources": [
+                "input/resume.pdf",
+                "input/recruiter.csv"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "confidence": 1.0,
+            "sources": [
+                "input/resume.pdf",
+                "input/recruiter.csv"
+            ]
+        },
+        {
+            "name": "Manual Testing",
+            "confidence": 1.0,
+            "sources": [
+                "input/resume.pdf",
+                "input/recruiter.csv"
+            ]
+        },
+        {
+            "name": "Debugging",
+            "confidence": 1.0,
+            "sources": [
+                "input/resume.pdf",
+                "input/recruiter.csv"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "company": "Pinnacle Labs",
+            "title": "C++ Programming Intern",
+            "start": "2025-05",
+            "end": "2025-07",
+            "summary": "Developed and optimized C++ modules for internal engineering tools. Collaborated with developers to debug components and improve performance. Performed unit testing to ensure reliability and correctness. Documented technical workflows and suggested process improvements."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Chandigarh University",
+            "degree": "B.E.",
+            "field": "Computer Science Engineering",
+            "end_year": null
+        },
+        {
+            "institution": "Rajkamal Saraswati Vidya Mandir",
+            "degree": "Intermediate (CBSE)",
+            "field": null,
+            "end_year": 2022
+        },
+        {
+            "institution": "Kids Garden Secondary School",
+            "degree": "Matriculation (CBSE)",
+            "field": null,
+            "end_year": 2020
+        }
+    ],
+    "provenance": [
+        {
+            "field": "candidate_id",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "full_name",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "full_name",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "headline",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "emails",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "emails",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "phones",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "location",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "links.linkedin",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "links.github",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "skills.Python",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "skills.Python",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "skills.C",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "skills.C",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "skills.C++",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "skills.C++",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "skills.Java",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "skills.Java",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "skills.JavaScript",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "skills.JavaScript",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "skills.MySQL",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "skills.MySQL",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "skills.Manual Testing",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "skills.Manual Testing",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "skills.Debugging",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "skills.Debugging",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "experience.Pinnacle Labs",
+            "source": "input/recruiter.csv",
+            "method": "csv_row_import"
+        },
+        {
+            "field": "experience.Pinnacle Labs",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "education.Chandigarh University",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "education.Rajkamal Saraswati Vidya Mandir",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        },
+        {
+            "field": "education.Kids Garden Secondary School",
+            "source": "input/resume.pdf",
+            "method": "resume_pdf_extraction"
+        }
+    ],
+    "overall_confidence": 0.94
+}
